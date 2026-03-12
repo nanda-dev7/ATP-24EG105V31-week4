@@ -1,0 +1,17 @@
+GET http://localhost:4000/abcd
+
+
+### Register User
+POST http://localhost:4000/user-api/users
+content-Type:application/json
+
+{
+    "firstName":"Vivekananda",
+    "lastName":"Reddy",
+    "email":"nagireddyvivekananda@gmail.com",
+    "password":"vivekananda",
+    "profileImageUrl":"http://example.com/avatars/user.png"
+}
+
+
+### user login 
