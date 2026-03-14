@@ -1,0 +1,18 @@
+img{
+    display:block;
+    margin:auto;
+}
+h1{
+    text-align: center;
+}
+div{
+    margin-left: 200px;
+    margin-top: 200px;
+    margin-right: 200px;
+}
+body{
+    background-color: aqua;
+}
+h2{
+    color: blue;
+}
