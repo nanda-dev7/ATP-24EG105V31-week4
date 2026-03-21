@@ -1,4 +1,4 @@
-
+    
 1. **Initialize the project** using `npm init -y` to automatically create the `package.json` file.
 
 2. **Install required packages** using `npm install express mongoose dotenv` to add backend framework, database ODM, and environment variable support.
